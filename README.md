@@ -1,5 +1,5 @@
 # laravel-dashboard
-Laravel based dashboard system. Uses Google Chart API to visualize JSON datas, coming from MySQL database
+Laravel based dashboard system. Uses Google Chart API to visualize JSON data, coming from MySQL database
 The system built up by using Laravel, and MatrixAdmin Bootstrap admin panel.
 
 It is crucial to establish a high security level in order to build a system that is capable
